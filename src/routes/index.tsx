@@ -322,7 +322,7 @@ function Testimonials() {
     timer.current = setInterval(() => setIndex((n) => (n + 1) % testimonials.length), 7000);
   };
 
-  const current = testimonials[index];
+  const current = testimonials[index]!;
 
   return (
     <section id="testimonials" className="scroll-mt-24 border-y border-border bg-card/50">
