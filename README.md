@@ -1,14 +1,22 @@
-# Welcome to your Lovable project
+# Emberfolio Showcase
+
+Freelancer Portfolio Page
+
+"Create a single-page portfolio landing page for a UX designer. Include a bold hero with name and tagline, a 3-column project gallery with hover effects, a short about section, client logos, a testimonial slider, and a contact form. Use dark theme with orange accent highlights."
+
+The key insight: The "3-column project gallery with hover effects" is a layout instruction, not a content instruction. Layout specificity is the most underused lever in landing page prompts.
+
+Use case: Freelancers, consultants, and agencies building a personal brand page or client pitch asset.
 
 This project was built with [Lovable](https://lovable.dev).
 
 ## Build with Lovable
 
-Open your project in the [Lovable editor](https://lovable.dev) and keep building.
+Continue developing this project in the [Lovable editor](https://lovable.dev/projects/e6b6728a-3473-49b0-a560-4523156a8cbc).
 
 - **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: connect the project to GitHub and every change made in Lovable is committed straight to your repository.
-- **Full ownership**: this code is yours. Push to your repository and your changes sync back into Lovable, ready for your next prompt.
+- **Stay in sync**: every change made in Lovable is committed straight to this repository.
+- **Full ownership**: this code is yours. Push to `main` on GitHub and your changes sync back into Lovable, ready for your next prompt.
 
 ## Development
 
@@ -20,10 +28,3 @@ cd <repository-name>
 npm i
 npm run dev
 ```
-
-## Built with
-
-- TanStack Start
-- TypeScript
-- React
-- Tailwind CSS
